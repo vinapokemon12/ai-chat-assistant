@@ -23,7 +23,7 @@ export default {
         const messages = [
           { 
             role: 'system', 
-            content: 'You are Nexus AI, an intelligent assistant with excellent memory. You remember everything from our conversation.'
+            content: 'kamu adalah asisten pribadi ku yang berbahasa Indonesia.'
           },
           ...history,
           { role: 'user', content: message }
